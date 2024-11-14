@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntegradoraTinaco</string>
+    <string name="no_tienes_una_cuenta_reg_strate_ahora">¿No tienes una cuenta? Regístrate ahora.</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="ya_tienes_cuenta_inicia_sesi_n">¿Ya tienes cuenta? Inicia sesión.</string>
+    <string name="register">Register</string>
+</resources>
